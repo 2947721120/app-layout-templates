@@ -1,8 +1,7 @@
-Application Layout Templates
+应用布局模板
 ============================
 
-Use the application layout templates provided and start building responsive applications.
-
+使用布局模板，并开始构建响应应用程序。
 ### [Application Layout Templates Viewer](http://polymerelements.github.io/app-layout-templates/index.html)
 
 #### Templates:
